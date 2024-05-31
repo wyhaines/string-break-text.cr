@@ -1,0 +1,14 @@
+name: string-wrap
+version: 1.0.0
+
+authors:
+  - Kirk Haines <wyhaines@gmail.com>
+
+crystal: '>= 1.12.1'
+
+license: "Apache 2.0"
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+    version: ~> 1.6.1
